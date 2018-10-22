@@ -1,0 +1,1192 @@
+﻿Log file open, 10/22/18 08:59:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TpsGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.870679
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: AMD FirePro W4100
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.22-15.59.13:650][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.22-15.59.13:650][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.22-15.59.13:666][  0]LogHAL: Display: Platform has ~ 8 GB [8485916672 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.22-15.59.13:666][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.22-15.59.13:666][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.22-15.59.13:671][  0]LogInit: Computer: CLSYSTEM01
+[2018.10.22-15.59.13:671][  0]LogInit: User: User
+[2018.10.22-15.59.13:671][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.22-15.59.13:671][  0]LogInit: High frequency timer resolution =3.328132 MHz
+[2018.10.22-15.59.13:671][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.22-15.59.13:671][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.22-15.59.13:671][  0]LogMemory: Process Physical Memory: 100.11 MB used, 100.11 MB peak
+[2018.10.22-15.59.13:671][  0]LogMemory: Process Virtual Memory: 90.88 MB used, 90.88 MB peak
+[2018.10.22-15.59.13:671][  0]LogMemory: Physical Memory: 2907.93 MB used,  5184.87 MB free, 8092.80 MB total
+[2018.10.22-15.59.13:671][  0]LogMemory: Virtual Memory: 510.60 MB used,  5184.87 MB free, 134217728.00 MB total
+[2018.10.22-15.59.13:770][  0]LogInit: Using OS detected language (en-US).
+[2018.10.22-15.59.13:770][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.22-15.59.13:776][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.22-15.59.14:145][  0]LogStreaming: Display: Took  0.373s to InitEngineTextLocalization.
+[2018.10.22-15.59.14:146][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.22-15.59.14:191][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.22-15.59.14:191][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.22-15.59.14:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.22-15.59.14:500][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.22-15.59.14:520][  0]LogD3D11RHI:    0. 'AMD FirePro W4100' (Feature Level 11_0)
+[2018.10.22-15.59.14:521][  0]LogD3D11RHI:       2029/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.10.22-15.59.14:522][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.22-15.59.14:522][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.22-15.59.14:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.22-15.59.14:529][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.22-15.59.14:529][  0]LogD3D11RHI:     GPU DeviceId: 0x682c (for the marketing name, search the web for "GPU Device Id")
+[2018.10.22-15.59.14:529][  0]LogWindows: EnumDisplayDevices:
+[2018.10.22-15.59.14:529][  0]LogWindows:    0. 'AMD FirePro W4100' (P:1 D:1)
+[2018.10.22-15.59.14:529][  0]LogWindows:    1. 'AMD FirePro W4100' (P:0 D:0)
+[2018.10.22-15.59.14:529][  0]LogWindows:    2. 'AMD FirePro W4100' (P:0 D:0)
+[2018.10.22-15.59.14:529][  0]LogWindows:    3. 'AMD FirePro W4100' (P:0 D:0)
+[2018.10.22-15.59.14:530][  0]LogWindows:    4. 'AMD FirePro W4100' (P:0 D:0)
+[2018.10.22-15.59.14:530][  0]LogWindows:    5. 'AMD FirePro W4100' (P:0 D:0)
+[2018.10.22-15.59.14:530][  0]LogWindows:    6. 'LogMeIn Mirror Driver' (P:0 D:0)
+[2018.10.22-15.59.14:530][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2018.10.22-15.59.14:530][  0]LogD3D11RHI:     Adapter Name: AMD FirePro W4100
+[2018.10.22-15.59.14:530][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:21.19.384.3, unified:21.19.384.3)
+[2018.10.22-15.59.14:530][  0]LogD3D11RHI:      Driver Date: 1-11-2017
+[2018.10.22-15.59.14:530][  0]LogRHI: Texture pool is 1420 MB (70% of 2029 MB)
+[2018.10.22-15.59.14:581][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.22-15.59.14:602][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.22-15.59.14:609][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../../game/TpsGame/TpsGame/Intermediate/Shaders/WorkingDirectory/1800/).
+[2018.10.22-15.59.14:609][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/406ECAEC41415ED4CBB6CBA1E4DD07C3/'.
+[2018.10.22-15.59.14:962][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.22-15.59.14:974][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.22-15.59.14:986][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.22-15.59.14:999][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.22-15.59.15:013][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.22-15.59.15:030][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.22-15.59.15:044][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.22-15.59.15:058][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.22-15.59.15:066][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-15.59.15:138][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.22-15.59.15:198][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.22-15.59.15:198][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.22-15.59.15:217][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.22-15.59.15:217][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.22-15.59.15:230][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.22-15.59.15:241][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.22-15.59.15:252][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.22-15.59.15:265][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.22-15.59.15:273][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.22-15.59.15:273][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.22-15.59.15:385][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.22-15.59.15:385][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.22-15.59.15:385][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.22-15.59.15:385][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../game/TpsGame/TpsGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../game/TpsGame/TpsGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.22-15.59.16:152][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.22-15.59.16:167][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.22-15.59.16:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.22-15.59.16:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.22-15.59.16:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.22-15.59.16:232][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.22-15.59.16:237][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.22-15.59.16:241][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.22-15.59.16:379][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2018.10.22-15.59.16:719][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.22-15.59.16:877][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.22-15.59.16:891][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.22-15.59.16:891][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.22-15.59.16:892][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.22-15.59.16:892][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.22-15.59.17:027][  0]LogNetVersion: TpsGame 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1934497954)
+[2018.10.22-15.59.18:053][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.053782 seconds
+[2018.10.22-15.59.18:059][  0]LogUObjectArray: 38447 objects as part of root set at end of initial load.
+[2018.10.22-15.59.18:059][  0]LogUObjectAllocator: 6692632 out of 0 bytes used by permanent object pool.
+[2018.10.22-15.59.18:059][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.22-15.59.19:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.22-15.59.19:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.22-15.59.20:219][  0]SourceControl: Source control is disabled
+[2018.10.22-15.59.20:220][  0]SourceControl: Source control is disabled
+[2018.10.22-15.59.20:231][  0]SourceControl: Source control is disabled
+[2018.10.22-15.59.20:234][  0]SourceControl: Source control is disabled
+[2018.10.22-15.59.20:505][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.22-15.59.20:555][  0]LogOcInput: OculusInput pre-init called
+[2018.10.22-15.59.20:651][  0]LogEngine: Initializing Engine...
+[2018.10.22-15.59.20:653][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.22-15.59.20:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.22-15.59.20:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.22-15.59.20:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.22-15.59.20:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.22-15.59.21:113][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.22-15.59.21:150][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.22-15.59.21:167][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-15.59.21:527][  0]LogInit: FAudioDevice initialized.
+[2018.10.22-15.59.21:527][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.22-15.59.21:622][  0]LogDerivedDataCache: Saved boot cache 0.10s 87MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.22-15.59.21:630][  0]LogInit: Texture streaming: Enabled
+[2018.10.22-15.59.21:653][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.22-15.59.21:719][  0]LogInit: Transaction tracking system initialized
+[2018.10.22-15.59.21:870][  0]BlueprintLog: New page: Editor Load
+[2018.10.22-15.59.22:049][  0]LocalizationService: Localization service is disabled
+[2018.10.22-15.59.22:407][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.22-15.59.22:408][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.22-15.59.22:408][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.22-15.59.22:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.22-15.59.22:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.22-15.59.22:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.22-15.59.22:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.22-15.59.22:664][  0]LogFileCache: Scanning file cache for directory 'C:/game/TpsGame/TpsGame/Content/' took 0.01s
+[2018.10.22-15.59.22:664][  0]SourceControl: Source control is disabled
+[2018.10.22-15.59.22:664][  0]Cmd: MAP LOAD FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.22-15.59.22:665][  0]LightingResults: New page: Lighting Build
+[2018.10.22-15.59.22:673][  0]MapCheck: New page: Map Check
+[2018.10.22-15.59.22:673][  0]LightingResults: New page: Lighting Build
+[2018.10.22-15.59.23:136][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyAI/Dying.Dying
+[2018.10.22-15.59.23:136][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MyAI/Dying.Dying) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:148][  0]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2018.10.22-15.59.23:324][  0]LogTexture: Display: Building textures: parasiteZombie_specular (AutoDXT, 2048X2048)
+[2018.10.22-15.59.23:324][  0]LogTexture: Display: Building textures: void_specular (AutoDXT, 1024X1024)
+[2018.10.22-15.59.23:324][  0]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Character1/Idle.Idle
+[2018.10.22-15.59.23:520][  0]LogTexture: Display: Building textures: parasiteZombie_normal (BC5, 2048X2048)
+[2018.10.22-15.59.23:520][  0]LogTexture: Display: Building textures: void_normal (BC5, 1024X1024)
+[2018.10.22-15.59.23:594][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyAI/Zombie_Running.Zombie_Running
+[2018.10.22-15.59.23:594][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MyAI/Zombie_Running.Zombie_Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:595][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyAI/Idle__1__Anim_mixamo_com.Idle__1__Anim_mixamo_com
+[2018.10.22-15.59.23:595][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MyAI/Idle__1__Anim_mixamo_com.Idle__1__Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:608][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character1/Rifle_Run.Rifle_Run
+[2018.10.22-15.59.23:608][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character1/Rifle_Run.Rifle_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:609][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character1/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2018.10.22-15.59.23:609][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character1/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:610][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character1/Zombie_Death_mixamo_com.Zombie_Death_mixamo_com
+[2018.10.22-15.59.23:610][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character1/Zombie_Death_mixamo_com.Zombie_Death_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-15.59.23:704][  0]LogTexture: Display: Building textures: void_diffuse (AutoDXT, 2048X2048)
+[2018.10.22-15.59.23:704][  0]LogSkeletalMesh: Building Skeletal Mesh Idle__1_...
+[2018.10.22-15.59.23:725][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MyAI/Idle__1_.Idle__1_
+[2018.10.22-15.59.25:547][  0]LogTexture: Display: Building textures: parasiteZombie_diffuse (AutoDXT, 2048X2048)
+[2018.10.22-15.59.26:799][  0]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2018.10.22-15.59.26:908][  0]LogMaterial: Display: Missing cached shader map for material default1, compiling. 
+[2018.10.22-15.59.26:995][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.22-15.59.26:995][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.22-15.59.26:995][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.22-15.59.26:995][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.22-15.59.26:995][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.22-15.59.26:995][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-15.59.27:025][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.22-15.59.27:091][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.22-15.59.27:161][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.325ms to complete.
+[2018.10.22-15.59.27:161][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.497
+[2018.10.22-15.59.27:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.27:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.27:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.27:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.27:411][  0]LogCollectionManager: Loaded 0 collections in 0.002174 seconds
+[2018.10.22-15.59.27:469][  0]LogFileCache: Scanning file cache for directory 'C:/game/TpsGame/TpsGame/Saved/Collections/' took 0.01s
+[2018.10.22-15.59.27:469][  0]LogFileCache: Scanning file cache for directory 'C:/game/TpsGame/TpsGame/Content/Developers/User/Collections/' took 0.01s
+[2018.10.22-15.59.27:469][  0]LogFileCache: Scanning file cache for directory 'C:/game/TpsGame/TpsGame/Content/Collections/' took 0.01s
+[2018.10.22-15.59.27:469][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.22-15.59.27:486][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2572 classes and 603 folders.
+[2018.10.22-15.59.27:499][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.22-15.59.27:662][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.22-15.59.27:677][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.22-15.59.27:736][  0]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.22-15.59.27:739][  0]LogSlate: Took 0.001190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.22-15.59.27:749][  0]LogSlate: Took 0.001073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.22-15.59.27:875][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.22-15.59.28:476][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.22-15.59.28:500][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.22-15.59.28:538][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.22-15.59.28:539][  0]LogLoad: (Engine Initialization) Total time: 18.57 seconds
+[2018.10.22-15.59.28:539][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.22-15.59.28:580][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.22-15.59.28:614][  0]LogSlate: Took 0.001428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.22-15.59.28:858][  3]LogAssetRegistry: Asset discovery search completed in 12.5022 seconds
+[2018.10.22-15.59.28:862][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.22-15.59.28:862][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2018.10.22-15.59.29:600][ 35]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.22-15.59.30:036][ 52]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.22-15.59.30:318][ 65]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.22-15.59.31:218][108]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.22-15.59.31:261][110]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.22-15.59.32:252][157]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.22-15.59.33:010][193]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.22-15.59.33:545][217]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.22-15.59.35:394][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-15.59.35:463][310]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-15.59.35:481][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-15.59.35:482][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-15.59.35:502][310]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 1:59:35 AM)
+[2018.10.22-15.59.35:502][310]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-15.59.35:536][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033997s)
+[2018.10.22-15.59.35:537][310]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-15.59.35:537][310]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.10.22-15.59.35:537][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035715s)
+[2018.10.22-15.59.35:559][310]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-15.59.35:574][310]LogInit: FAudioDevice initialized.
+[2018.10.22-15.59.35:626][310]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-15.59.35:630][310]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-08.59.35
+[2018.10.22-15.59.35:634][310]LogWorld: Bringing up level for play took: 0.005348
+[2018.10.22-15.59.35:655][310]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.22-15.59.35:658][310]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.154
+[2018.10.22-15.59.35:658][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-15.59.41:755][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-15.59.41:757][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.41:799][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-15.59.41:799][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-15.59.41:822][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-15.59.41:861][629]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.22-15.59.44:465][758]LogEditorViewport: Clicking on Actor (LMB): MyCharacterAI_C (MyCharacterAI)
+[2018.10.22-15.59.45:536][792]Cmd: DELETE
+[2018.10.22-15.59.45:536][792]Cmd: ACTOR DELETE
+[2018.10.22-15.59.45:545][792]LogEditorActor: Deleted Actor: MyCharacterAI_C
+[2018.10.22-15.59.45:606][792]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.10.22-15.59.46:878][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-15.59.47:334][880]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-15.59.47:344][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-15.59.47:344][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-15.59.47:344][880]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 1:59:47 AM)
+[2018.10.22-15.59.47:344][880]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-15.59.47:365][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020716s)
+[2018.10.22-15.59.47:366][880]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-15.59.47:366][880]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2018.10.22-15.59.47:366][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022198s)
+[2018.10.22-15.59.47:390][880]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-15.59.47:404][880]LogInit: FAudioDevice initialized.
+[2018.10.22-15.59.47:437][880]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-15.59.47:439][880]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-08.59.47
+[2018.10.22-15.59.47:439][880]LogWorld: Bringing up level for play took: 0.000842
+[2018.10.22-15.59.47:452][880]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.36
+[2018.10.22-15.59.47:452][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.00.28:096][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.00.28:096][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.00.28:149][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.00.28:149][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.00.28:170][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.00.28:202][921]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.22-16.00.55:214][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.00.55:430][ 16]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character1/MyBP.MyBP
+[2018.10.22-16.00.55:456][ 16]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.22-16.00.55:749][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.22-16.00.55:758][ 16]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.10.22-16.00.56:242][ 16]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.10.22-16.00.57:000][ 16]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.22-16.00.57:307][ 16]LogSlate: Took 0.001211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.22-16.00.57:356][ 16]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.10.22-16.00.57:430][ 17]LogSlate: Took 0.001803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.22-16.02.07:350][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/MyBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset" SILENT=true
+[2018.10.22-16.02.07:406][280]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBPD0C5D7464B06F7EE06CF869DD93F1926.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset'
+[2018.10.22-16.02.08:789][325]LogSlate: Window 'MyBP' being destroyed
+[2018.10.22-16.02.11:970][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-16.02.11:980][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.11:980][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-16.02.11:980][457]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 2:02:11 AM)
+[2018.10.22-16.02.11:981][457]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-16.02.11:999][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018022s)
+[2018.10.22-16.02.12:000][457]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-16.02.12:000][457]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.10.22-16.02.12:000][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019311s)
+[2018.10.22-16.02.12:037][457]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-16.02.12:050][457]LogInit: FAudioDevice initialized.
+[2018.10.22-16.02.12:083][457]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-16.02.12:084][457]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-09.02.12
+[2018.10.22-16.02.12:085][457]LogWorld: Bringing up level for play took: 0.000826
+[2018.10.22-16.02.12:098][457]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.286
+[2018.10.22-16.02.12:099][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.14:766][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.14:767][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.02.14:815][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.02.14:816][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.14:837][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.02.14:869][577]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.22-16.02.15:656][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.02.15:727][614]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-16.02.15:736][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.15:737][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-16.02.15:737][614]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 2:02:15 AM)
+[2018.10.22-16.02.15:737][614]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-16.02.15:754][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017326s)
+[2018.10.22-16.02.15:756][614]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-16.02.15:756][614]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2018.10.22-16.02.15:756][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019022s)
+[2018.10.22-16.02.15:808][614]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-16.02.15:831][614]LogInit: FAudioDevice initialized.
+[2018.10.22-16.02.15:867][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-16.02.15:869][614]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-09.02.15
+[2018.10.22-16.02.15:869][614]LogWorld: Bringing up level for play took: 0.000753
+[2018.10.22-16.02.15:882][614]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.07
+[2018.10.22-16.02.15:882][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.20:078][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.02.22:342][795]LogSlate: Window 'Save Content' being destroyed
+[2018.10.22-16.02.26:823][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.26:823][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.02.26:872][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.02.26:873][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.02.26:896][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.02.26:928][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.22-16.10.30:033][879]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/ThirdPersonExampleMap_Auto1AACEF9E64D93EFCD22080CB27D028FE3.tmp' to '../../../../../../game/TpsGame/TpsGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.10.22-16.10.30:039][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.200
+[2018.10.22-16.10.30:040][879]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2018.10.22-16.15.41:738][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.19.51:588][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.10.22-16.19.52:217][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.20.14:945][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_idle" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_idle.uasset" SILENT=true
+[2018.10.22-16.20.14:957][255]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_idle63A6DBC04675C14FB2FF4B8E61D81700.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_idle.uasset'
+[2018.10.22-16.20.15:142][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/MyBlend" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBlend.uasset" SILENT=true
+[2018.10.22-16.20.15:156][255]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBlend96256ECF40B85688A46438AB8EC1DE75.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBlend.uasset'
+[2018.10.22-16.20.17:505][316]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character1/Idle_Anim_Take_001.Idle_Anim_Take_001
+[2018.10.22-16.20.17:505][316]LogAnimationCompression: Recompressing (AnimSequence /Game/Character1/Idle_Anim_Take_001.Idle_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-16.20.20:214][316]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.22-16.20.22:686][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character1/Zombie_Death_Take_001.Zombie_Death_Take_001
+[2018.10.22-16.20.22:686][378]LogAnimationCompression: Recompressing (AnimSequence /Game/Character1/Zombie_Death_Take_001.Zombie_Death_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-16.20.23:603][378]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.22-16.20.30:138][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_death" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_death.uasset" SILENT=true
+[2018.10.22-16.20.30:162][543]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_death9A98F00D48FA5EC7ECB509BD017144B9.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_death.uasset'
+[2018.10.22-16.20.30:342][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/MyBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset" SILENT=true
+[2018.10.22-16.20.30:375][543]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBP35BEFFEA4D3097DACD29D591229398FE.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset'
+[2018.10.22-16.20.38:499][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_run" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_run.uasset" SILENT=true
+[2018.10.22-16.20.38:510][746]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_run2784FDD64F4E4979BD39D6AD2DC84FA0.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_run.uasset'
+[2018.10.22-16.20.38:666][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/MyBlend" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBlend.uasset" SILENT=true
+[2018.10.22-16.20.38:670][746]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBlend0B6690B148A60882E3873BBECC5E0BAF.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBlend.uasset'
+[2018.10.22-16.20.48:858][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/idle_run_blend" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/idle_run_blend.uasset" SILENT=true
+[2018.10.22-16.20.48:867][  1]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/idle_run_blend574F6FB046558C8289512AA3A65908DE.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/idle_run_blend.uasset'
+[2018.10.22-16.20.49:051][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/MyBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset" SILENT=true
+[2018.10.22-16.20.49:085][  1]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBP5E1F341646352697B30936AFB0CBB1A9.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/MyBP.uasset'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP_C' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_3.Dying.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:883][140]LogMetaData: Removing '/Game/Character1/myAnimBP.SKEL_myAnimBP_C' ref from Metadata '/Game/Character1/MyBP.PackageMetaData'
+[2018.10.22-16.20.54:929][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/myAnimBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/myAnimBP.uasset" SILENT=true
+[2018.10.22-16.20.54:961][140]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/myAnimBP16F0AA094B8592C0A069B4B731619102.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/myAnimBP.uasset'
+[2018.10.22-16.20.55:151][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter1" FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset" SILENT=true
+[2018.10.22-16.20.55:206][140]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyCharacter1167FA7EB4FB44FD97E5FA096637BEC5B.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset'
+[2018.10.22-16.21.06:624][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_skel" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_skel.uasset" SILENT=true
+[2018.10.22-16.21.06:636][432]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_skel7B517FDA406634F1406462AEBEB78CCA.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_skel.uasset'
+[2018.10.22-16.21.06:820][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/Idle" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/Idle.uasset" SILENT=true
+[2018.10.22-16.21.07:111][432]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle5E3E3BE2493CAB6276D60EA7F17C82A5.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/Idle.uasset'
+[2018.10.22-16.21.16:660][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_mesh" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_mesh.uasset" SILENT=true
+[2018.10.22-16.21.16:835][665]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_mesh49CF4DD2491809413F67BBBCB2E93E0C.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_mesh.uasset'
+[2018.10.22-16.21.17:017][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter1" FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset" SILENT=true
+[2018.10.22-16.21.17:069][665]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyCharacter1F69D699B48FAE69E4C7D15B059035A74.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset'
+[2018.10.22-16.21.17:074][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_skel" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_skel.uasset" SILENT=true
+[2018.10.22-16.21.17:080][665]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_skel8108A36745047381448D839550EAE5C6.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_skel.uasset'
+[2018.10.22-16.21.46:280][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/default1" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/default1.uasset" SILENT=true
+[2018.10.22-16.21.46:292][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/default1B4DEEE5F4FCA6D3C465D98AC7F57A68E.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/default1.uasset'
+[2018.10.22-16.21.46:296][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/Idle_Skeleton" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/Idle_Skeleton.uasset" SILENT=true
+[2018.10.22-16.21.46:299][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle_Skeleton58AB5B8042BF9525C972399D99D4A770.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/Idle_Skeleton.uasset'
+[2018.10.22-16.21.46:326][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/p_mesh" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/p_mesh.uasset" SILENT=true
+[2018.10.22-16.21.46:497][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_mesh1A00FE6F4B3A3E81BCFB4EBCCBBE9B09.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/p_mesh.uasset'
+[2018.10.22-16.21.46:508][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/void_specular" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_specular.uasset" SILENT=true
+[2018.10.22-16.21.46:528][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_specularB6455E05413B105B383B7C9BCC2B3B12.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_specular.uasset'
+[2018.10.22-16.21.46:539][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/void_normal" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_normal.uasset" SILENT=true
+[2018.10.22-16.21.46:568][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_normal6B29D0A34F0FD8AE20C46DAF3BAFE4E7.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_normal.uasset'
+[2018.10.22-16.21.46:578][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/void_diffuse" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_diffuse.uasset" SILENT=true
+[2018.10.22-16.21.46:644][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_diffuse9019CA534A81E12D1011B0B660D24B8F.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/void_diffuse.uasset'
+[2018.10.22-16.21.46:667][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/skelMesh/p_skel" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/p_skel.uasset" SILENT=true
+[2018.10.22-16.21.46:679][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_skelE53201C241DF612C3259BF8AEADBA9F4.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/skelMesh/p_skel.uasset'
+[2018.10.22-16.21.47:285][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_idle" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_idle.uasset" SILENT=true
+[2018.10.22-16.21.47:291][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_idleCE4C5A8B48FE6D0E39E9BFB0FF04EB2A.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_idle.uasset'
+[2018.10.22-16.21.47:294][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_death" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_death.uasset" SILENT=true
+[2018.10.22-16.21.47:313][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_deathEEA1CCBC45543649ECA7A3ABA514DAD9.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_death.uasset'
+[2018.10.22-16.21.47:317][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/p_run" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/p_run.uasset" SILENT=true
+[2018.10.22-16.21.47:323][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_runC726C4584591E64CD37B84A3E575398C.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/p_run.uasset'
+[2018.10.22-16.21.47:326][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/idle_run_blend" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/idle_run_blend.uasset" SILENT=true
+[2018.10.22-16.21.47:330][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/idle_run_blend869645884A20113AF352A481DA1EFC88.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/idle_run_blend.uasset'
+[2018.10.22-16.21.47:351][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/myAnimBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/myAnimBP.uasset" SILENT=true
+[2018.10.22-16.21.47:384][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/myAnimBPB73C4095414AD2ABE4816F8BCDB8FD76.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/myAnimBP.uasset'
+[2018.10.22-16.21.47:407][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter1" FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset" SILENT=true
+[2018.10.22-16.21.47:460][545]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyCharacter1C28D48C74F805D00A58766890C98D1AE.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset'
+[2018.10.22-16.21.52:254][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP_C' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:254][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.SKEL_myAnimBP_C' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_3.Dying.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.SKEL_myAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.SKEL_myAnimBP_C:isDying' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.SKEL_myAnimBP_C:Speed' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.SKEL_myAnimBP_C:IsInAir?' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP_C:isDying' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP_C:Speed' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP_C:IsInAir?' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:255][682]LogMetaData: Removing '/Game/Character1/animations/myAnimBP.myAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Character1/myAnimBP.PackageMetaData'
+[2018.10.22-16.21.52:303][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/animations/idle_run_blend" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/idle_run_blend.uasset" SILENT=true
+[2018.10.22-16.21.52:312][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/idle_run_blendD51D75AE43FC2660AE48F0A36D5964FD.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/idle_run_blend.uasset'
+[2018.10.22-16.21.52:335][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/animations/myAnimBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/myAnimBP.uasset" SILENT=true
+[2018.10.22-16.21.52:366][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/myAnimBPD46A3FBD40FA53E5BFA91583A8F4C879.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/myAnimBP.uasset'
+[2018.10.22-16.21.52:389][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/animations/p_death" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_death.uasset" SILENT=true
+[2018.10.22-16.21.52:412][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_deathEEF3F1B348F21CC894256883613CE010.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_death.uasset'
+[2018.10.22-16.21.52:435][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/animations/p_idle" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_idle.uasset" SILENT=true
+[2018.10.22-16.21.52:446][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_idleDBBFA7364D410A14DA700788918EAA08.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_idle.uasset'
+[2018.10.22-16.21.52:469][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/animations/p_run" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_run.uasset" SILENT=true
+[2018.10.22-16.21.52:480][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_run4F38917243D6DF2D1C99E49BA5B42A71.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/p_run.uasset'
+[2018.10.22-16.21.52:931][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter1" FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset" SILENT=true
+[2018.10.22-16.21.52:984][682]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyCharacter1B5DFD13D48BB4DF22EB3668D3D80C0E8.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacter1.uasset'
+[2018.10.22-16.22.26:575][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.10.22-16.22.27:012][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.22-16.22.28:947][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.22-16.22.29:551][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.22-16.22.32:035][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.22-16.22.36:774][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.22-16.22.37:583][221]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.10.22-16.22.38:639][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.22-16.22.41:546][389]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.22-16.22.42:088][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.22-16.22.43:155][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.10.22-16.23.07:664][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.22-16.23.08:006][477]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/ThirdPersonExampleMap_Auto27660DC004AB2387CFE2E1CA4077F8C80.tmp' to '../../../../../../game/TpsGame/TpsGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.10.22-16.23.08:009][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.325
+[2018.10.22-16.23.08:009][477]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.325
+[2018.10.22-16.23.10:686][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.22-16.23.12:060][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.22-16.23.13:605][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.23.25:099][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MyCharacter1.MyCharacter1
+[2018.10.22-16.23.31:078][196]LogSlate: Window 'MyCharacter1' being destroyed
+[2018.10.22-16.23.31:110][196]LogSlate: Window 'MyCharacter1' being destroyed
+[2018.10.22-16.23.32:069][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.23.32:879][236]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MyCharacterAI.MyCharacterAI
+[2018.10.22-16.24.15:992][760]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.24.15:992][760]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.24.15:992][760]LoadErrors: Error: /Game/Character1/animations/myAnimBP : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/MyCharacter1
+[2018.10.22-16.24.15:992][760]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.24.15:992][760]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.24.15:995][760]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.24.15:995][760]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.24.16:148][760]LogMetaData: Removing '/Game/Character1/PC.PC_C' ref from Metadata '/Game/Character1/MyCharacter1.PackageMetaData'
+[2018.10.22-16.24.16:148][760]LogMetaData: Removing '/Game/Character1/PC.PC:shoot.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/MyCharacter1.PackageMetaData'
+[2018.10.22-16.24.16:148][760]LogMetaData: Removing '/Game/Character1/PC.PC:takeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/MyCharacter1.PackageMetaData'
+[2018.10.22-16.24.16:148][760]LogMetaData: Removing '/Game/Character1/PC.SKEL_PC_C' ref from Metadata '/Game/Character1/MyCharacter1.PackageMetaData'
+[2018.10.22-16.24.16:292][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/PC" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/PC.uasset" SILENT=true
+[2018.10.22-16.24.16:351][760]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/PC4FAC368B461A585A19D582B1252E9C94.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/PC.uasset'
+[2018.10.22-16.24.18:254][824]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-16.24.18:269][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.18:270][824]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.22-16.24.18:292][824]LogPlayLevel: [PlayLevel] Compiling MyCharacter1 before play...
+[2018.10.22-16.24.18:450][824]LogPlayLevel: [PlayLevel] Compiling myAnimBP before play...
+[2018.10.22-16.24.18:602][824]LogPlayLevel: PlayLevel: Blueprint regeneration took 332 ms (2 blueprints)
+[2018.10.22-16.24.18:602][824]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 2:24:18 AM)
+[2018.10.22-16.24.18:602][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-16.24.18:625][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022336s)
+[2018.10.22-16.24.18:626][824]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-16.24.18:626][824]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2018.10.22-16.24.18:626][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023804s)
+[2018.10.22-16.24.18:663][824]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-16.24.18:677][824]LogInit: FAudioDevice initialized.
+[2018.10.22-16.24.18:708][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-16.24.18:710][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-09.24.18
+[2018.10.22-16.24.18:710][824]LogWorld: Bringing up level for play took: 0.001160
+[2018.10.22-16.24.18:724][824]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.912
+[2018.10.22-16.24.18:724][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.26:760][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.26:765][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.24.26:810][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.24.26:810][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.26:842][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.24.26:876][224]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.22-16.24.27:787][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.24.27:876][270]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-16.24.27:890][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.27:891][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-16.24.27:891][270]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 2:24:27 AM)
+[2018.10.22-16.24.27:891][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-16.24.27:911][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020433s)
+[2018.10.22-16.24.27:912][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-16.24.27:912][270]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2018.10.22-16.24.27:913][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021974s)
+[2018.10.22-16.24.27:978][270]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-16.24.27:992][270]LogInit: FAudioDevice initialized.
+[2018.10.22-16.24.28:030][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-16.24.28:032][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-09.24.28
+[2018.10.22-16.24.28:032][270]LogWorld: Bringing up level for play took: 0.001119
+[2018.10.22-16.24.28:046][270]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.233
+[2018.10.22-16.24.28:046][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.38:882][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.38:882][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.24.38:933][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.24.38:933][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.38:961][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.24.38:991][767]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.22-16.24.40:316][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.24.47:064][559]LogSlate: Took 0.001483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.22-16.24.50:422][941]BlueprintLog: New page: Compile MyCharacterAI
+[2018.10.22-16.24.54:402][239]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-16.24.54:415][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.24.54:415][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-16.24.54:415][239]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2018, 2:24:54 AM)
+[2018.10.22-16.24.54:415][239]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.22-16.24.54:434][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018448s)
+[2018.10.22-16.24.54:435][239]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.22-16.24.54:435][239]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2018.10.22-16.24.54:435][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020222s)
+[2018.10.22-16.24.54:462][239]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-16.24.54:475][239]LogInit: FAudioDevice initialized.
+[2018.10.22-16.24.54:507][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.22-16.24.54:509][239]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.22-09.24.54
+[2018.10.22-16.24.54:509][239]LogWorld: Bringing up level for play took: 0.000758
+[2018.10.22-16.24.54:522][239]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.709
+[2018.10.22-16.24.54:522][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.25.01:047][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.25.01:047][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.25.01:095][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-16.25.01:095][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.22-16.25.01:124][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-16.25.01:155][558]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.22-16.25.02:286][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-16.25.17:459][225]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character1/PC.PC
+[2018.10.22-16.25.49:445][458]LogSlate: Window 'PC' being destroyed
+[2018.10.22-16.25.51:278][535]LogSlate: Window 'PC' being destroyed
+[2018.10.22-16.26.17:282][486]LogMetaData: Removing '/Game/Character1/Guy.Guy_C' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.17:282][486]LogMetaData: Removing '/Game/Character1/Guy.SKEL_Guy_C' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.17:282][486]LogMetaData: Removing '/Game/Character1/Guy.Guy:shoot.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.17:282][486]LogMetaData: Removing '/Game/Character1/Guy.Guy:takeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.17:331][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/Guy" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/Guy.uasset" SILENT=true
+[2018.10.22-16.26.17:387][486]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Guy0D1F38854EB0EDB12BAE32B5F206520A.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/Guy.uasset'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.PC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.SKEL_PC_C' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.PC_C' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.PC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.PC:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:452][ 99]LogMetaData: Removing '/Game/Character1/PC.PC:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Character1/PC_Child.PackageMetaData'
+[2018.10.22-16.26.35:489][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character1/PC" FILE="../../../../../../game/TpsGame/TpsGame/Content/Character1/PC.uasset" SILENT=true
+[2018.10.22-16.26.35:505][ 99]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/PC6924BBC443BEB4A0E2DF03A3E7D33FAA.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/Character1/PC.uasset'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP_C' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.SKEL_myAnimBP_C' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP:AnimGraph.AnimGraphNode_StateMachine_1.New State Machine.AnimStateNode_3.Dying.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.SKEL_myAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.SKEL_myAnimBP_C:isDying' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.SKEL_myAnimBP_C:Speed' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.SKEL_myAnimBP_C:IsInAir?' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP_C:isDying' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP_C:Speed' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP_C:IsInAir?' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:804][839]LogMetaData: Removing '/Game/myStuff/Character1/animations/myAnimBP.myAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Character1/animations/myAnimBP.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.SKEL_Enemy_C' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.Enemy_C' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:852][839]LogMetaData: Removing '/Game/myStuff/Character1/Enemy.Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Character1/Enemy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy:shoot.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy:takeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:isDying' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:BaseLookUpRate' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:BaseTurnRate' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:CameraBoom' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:FollowCamera' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:AimPlane' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.SKEL_Guy_C:UserConstructionScript' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:isDying' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:BaseLookUpRate' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:BaseTurnRate' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:CameraBoom' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:FollowCamera' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:AimPlane' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:858][839]LogMetaData: Removing '/Game/myStuff/Character1/Guy.Guy_C:UserConstructionScript' ref from Metadata '/Game/Character1/Guy.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.PC_C' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.SKEL_PC_C' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.PC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.PC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.PC:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.PC:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.SKEL_PC_C:ReceiveBeginPlay' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.SKEL_PC_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.SKEL_PC_C:ReceiveTick' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:864][839]LogMetaData: Removing '/Game/myStuff/Character1/PC.SKEL_PC_C:UserConstructionScript' ref from Metadata '/Game/Character1/PC.PackageMetaData'
+[2018.10.22-16.26.56:883][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/Idle_Skeleton" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/Idle_Skeleton.uasset" SILENT=true
+[2018.10.22-16.26.56:886][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle_Skeleton0F8225364DAA28C19E0CEAB1A2A9E33C.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/Idle_Skeleton.uasset'
+[2018.10.22-16.26.56:910][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/animations/p_death" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_death.uasset" SILENT=true
+[2018.10.22-16.26.56:934][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_death56DFD4E7456138E2CCA90FB3AAB4A5D0.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_death.uasset'
+[2018.10.22-16.26.56:958][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/animations/p_idle" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_idle.uasset" SILENT=true
+[2018.10.22-16.26.56:970][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_idle3E0E83FC415263AD239952B2CB3343DC.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_idle.uasset'
+[2018.10.22-16.26.56:994][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/animations/p_run" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_run.uasset" SILENT=true
+[2018.10.22-16.26.57:004][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_run7924B1144AC860B70739978F85919EDC.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/p_run.uasset'
+[2018.10.22-16.26.57:030][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/animations/idle_run_blend" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/idle_run_blend.uasset" SILENT=true
+[2018.10.22-16.26.57:040][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/idle_run_blend960282B74CBA1FA94872689D00A3C891.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/idle_run_blend.uasset'
+[2018.10.22-16.26.57:063][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/animations/myAnimBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/myAnimBP.uasset" SILENT=true
+[2018.10.22-16.26.57:095][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/myAnimBPBD2CB32848A287C08DBF458C7E5F6DD8.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/myAnimBP.uasset'
+[2018.10.22-16.26.57:107][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/void_diffuse" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_diffuse.uasset" SILENT=true
+[2018.10.22-16.26.57:171][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_diffuse062C630940AFA9396B2B80BAD13A9E46.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_diffuse.uasset'
+[2018.10.22-16.26.57:183][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/void_normal" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_normal.uasset" SILENT=true
+[2018.10.22-16.26.57:213][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_normalD7D535244C0A1C5806E7BEBEF1CCC12B.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_normal.uasset'
+[2018.10.22-16.26.57:224][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/void_specular" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_specular.uasset" SILENT=true
+[2018.10.22-16.26.57:245][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/void_specularEBFAFE764748AE74FDCFA1BC7A6A5F73.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/void_specular.uasset'
+[2018.10.22-16.26.57:269][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/default1" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/default1.uasset" SILENT=true
+[2018.10.22-16.26.57:281][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/default155E002BD4CFE27986A5B7BA1F662EE9C.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/default1.uasset'
+[2018.10.22-16.26.57:304][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/p_skel" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/p_skel.uasset" SILENT=true
+[2018.10.22-16.26.57:316][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_skel4D5CC34A455233E13E853FAD996C8603.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/p_skel.uasset'
+[2018.10.22-16.26.57:339][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/skelMesh/p_mesh" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/p_mesh.uasset" SILENT=true
+[2018.10.22-16.26.57:495][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/p_meshC3963C724BF4C88DE5765CB94DDF3727.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/skelMesh/p_mesh.uasset'
+[2018.10.22-16.26.57:520][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/Enemy" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/Enemy.uasset" SILENT=true
+[2018.10.22-16.26.57:536][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/EnemyE4C3DEB341E7B82769BDFE8C6E17EF77.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/Enemy.uasset'
+[2018.10.22-16.26.57:559][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/Guy" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/Guy.uasset" SILENT=true
+[2018.10.22-16.26.57:616][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/GuyFBFE922A426E72200B294987C7D71017.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/Guy.uasset'
+[2018.10.22-16.26.57:639][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Character1/PC" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/PC.uasset" SILENT=true
+[2018.10.22-16.26.57:655][839]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/PC189F149C4BE1E15754A0C39370C5E30F.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/PC.uasset'
+[2018.10.22-16.27.01:750][966]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyAI/Idle__1__Anim_Take_001.Idle__1__Anim_Take_001
+[2018.10.22-16.27.01:750][966]LogAnimationCompression: Recompressing (AnimSequence /Game/MyAI/Idle__1__Anim_Take_001.Idle__1__Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP_C' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateNode_0.IdleAI.AnimGraphNode_StateResult_0' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateNode_1.Death.AnimGraphNode_StateResult_0' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.SKEL_MyaiBP_C' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.SKEL_MyaiBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.SKEL_MyaiBP_C:isDying' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.SKEL_MyaiBP_C:Speed' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.SKEL_MyaiBP_C:IsInAir?' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP_C:isDying' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP_C:Speed' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP_C:IsInAir?' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:805][966]LogMetaData: Removing '/Game/myStuff/MyAI/MyaiBP.MyaiBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/MyAI/MyaiBP.PackageMetaData'
+[2018.10.22-16.27.01:966][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/MyBlend2" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/MyBlend2.uasset" SILENT=true
+[2018.10.22-16.27.01:975][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyBlend24967F3DC46BC53B64B67A8B2EEF8179D.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/MyBlend2.uasset'
+[2018.10.22-16.27.02:001][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Zombie_Running" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Zombie_Running.uasset" SILENT=true
+[2018.10.22-16.27.02:011][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Zombie_RunningD90FCAD444C664F2FD223AA7BAEA545A.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Zombie_Running.uasset'
+[2018.10.22-16.27.02:035][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Idle__1__Anim_mixamo_com" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Anim_mixamo_com.uasset" SILENT=true
+[2018.10.22-16.27.02:048][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle__1__Anim_mixamo_comCC64B471407657C2B3FB01BF54584E2B.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Anim_mixamo_com.uasset'
+[2018.10.22-16.27.02:071][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Dying" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Dying.uasset" SILENT=true
+[2018.10.22-16.27.02:083][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Dying9DF0BC52414E07F5D8CDCD8AA7A10BC1.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Dying.uasset'
+[2018.10.22-16.27.02:087][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Idle__1__Skeleton" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Skeleton.uasset" SILENT=true
+[2018.10.22-16.27.02:090][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle__1__Skeleton8C8D8D734350E5D8E57A50A2C4F3F539.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Skeleton.uasset'
+[2018.10.22-16.27.02:138][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/MyaiBP" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/MyaiBP.uasset" SILENT=true
+[2018.10.22-16.27.02:172][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyaiBP0C9B5942413C3B76AEECA08547079104.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/MyaiBP.uasset'
+[2018.10.22-16.27.02:182][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/parasiteZombie_diffuse" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_diffuse.uasset" SILENT=true
+[2018.10.22-16.27.02:251][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/parasiteZombie_diffuse6E6593694A6C09E223FDC2BA8F557202.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_diffuse.uasset'
+[2018.10.22-16.27.02:263][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/parasiteZombie_normal" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_normal.uasset" SILENT=true
+[2018.10.22-16.27.02:330][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/parasiteZombie_normalD75294EF4FAE700FC195D9B61732B9FB.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_normal.uasset'
+[2018.10.22-16.27.02:341][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/parasiteZombie_specular" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_specular.uasset" SILENT=true
+[2018.10.22-16.27.02:384][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/parasiteZombie_specular186533F3476ED21BA8F5E1BFAA4C6C0F.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasiteZombie_specular.uasset'
+[2018.10.22-16.27.02:409][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/parasitezombie_Material" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasitezombie_Material.uasset" SILENT=true
+[2018.10.22-16.27.02:421][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/parasitezombie_Material23611B8849D9ED7AEAC7849ADE8E192B.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/parasitezombie_Material.uasset'
+[2018.10.22-16.27.02:443][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Idle__1__PhysicsAsset" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__PhysicsAsset.uasset" SILENT=true
+[2018.10.22-16.27.02:460][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle__1__PhysicsAsset11258B2540CE36B91BB0999442F207DF.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__PhysicsAsset.uasset'
+[2018.10.22-16.27.02:483][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Idle__1_" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1_.uasset" SILENT=true
+[2018.10.22-16.27.02:507][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle__1_F9523462438DD196AD0A8DB926F6A4B2.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1_.uasset'
+[2018.10.22-16.27.02:530][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/MyAI/Idle__1__Anim_Take_001" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Anim_Take_001.uasset" SILENT=true
+[2018.10.22-16.27.02:541][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Idle__1__Anim_Take_00144377B7845A5B2292BF82B8699289C63.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/MyAI/Idle__1__Anim_Take_001.uasset'
+[2018.10.22-16.27.03:690][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacterAI" FILE="../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacterAI.uasset" SILENT=true
+[2018.10.22-16.27.03:765][966]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/MyCharacterAI306A551F452E1EB7514F93B793C9A4B0.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacterAI.uasset'
+[2018.10.22-16.27.38:984][501]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.27.38:984][501]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.27.38:984][501]LoadErrors: Error: /Game/myStuff/Character1/animations/myAnimBP : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/MyCharacter1
+[2018.10.22-16.27.38:984][501]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.27.38:984][501]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.27.38:986][501]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.27.38:986][501]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/myStuff/Character1/animations/myAnimBP.uasset.
+[2018.10.22-16.27.39:000][501]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.27.39:000][501]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacterAI.uasset.
+[2018.10.22-16.27.39:000][501]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/MyCharacterAI : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/MyCharacter1
+[2018.10.22-16.27.39:012][501]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MyCharacter1'
+[2018.10.22-16.27.39:012][501]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MyCharacter1' while loading ../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Blueprints/MyCharacterAI.uasset.
+[2018.10.22-16.27.39:062][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/myStuff/Guy.Guy
+[2018.10.22-16.27.41:360][697]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.10.22-16.27.54:822][597]BlueprintLog: New page: Compile Guy
+[2018.10.22-16.28.36:711][917]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.22-16.29.47:182][416]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/ThirdPersonExampleMap326F4FF24E2992C33A283D87C85FBCA5.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.22-16.29.47:200][416]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.303
+[2018.10.22-16.29.59:489][172]LogSlate: Window 'Save Content' being destroyed
+[2018.10.22-16.29.59:508][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myStuff/Guy" FILE="../../../../../../game/TpsGame/TpsGame/Content/myStuff/Guy.uasset" SILENT=true
+[2018.10.22-16.29.59:555][172]LogSavePackage: Moving '../../../../../../game/TpsGame/TpsGame/Saved/Guy29CADA49477D3461F33DC89147EFE04E.tmp' to '../../../../../../game/TpsGame/TpsGame/Content/myStuff/Guy.uasset'
+[2018.10.22-16.29.59:614][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.22-16.29.59:673][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.22-16.29.59:724][172]LogSlate: Window 'TpsGame - Unreal Editor' being destroyed
+[2018.10.22-16.29.59:725][172]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.22-16.29.59:909][173]Cmd: QUIT_EDITOR
+[2018.10.22-16.30.00:110][173]LogExit: Preparing to exit.
+[2018.10.22-16.30.00:426][173]LogExit: Editor shut down
+[2018.10.22-16.30.00:427][173]LogExit: Transaction tracking system shut down
+[2018.10.22-16.30.01:063][173]LogExit: Object subsystem successfully closed.
+[2018.10.22-16.30.01:093][173]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.22-16.30.01:100][173]LogD3D11RHI: Shutdown
+[2018.10.22-16.30.01:100][173]LogD3D11RHI: CleanupD3DDevice
+[2018.10.22-16.30.01:110][173]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (624)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module BlueprintGraph (622)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module PinnedCommandList (620)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module SkeletonEditor (618)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (616)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.10.22-16.30.01:162][173]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.10.22-16.30.01:163][173]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.22-16.30.01:163][173]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.22-16.30.01:163][173]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.22-16.30.01:166][173]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.22-16.30.01:166][173]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.22-16.30.01:166][173]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.22-16.30.01:168][173]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.22-16.30.01:168][173]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.22-16.30.01:168][173]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.22-16.30.01:170][173]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.22-16.30.01:170][173]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.22-16.30.01:170][173]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.22-16.30.01:170][173]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.22-16.30.01:171][173]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.22-16.30.01:172][173]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.22-16.30.01:174][173]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.22-16.30.01:174][173]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.22-16.30.01:175][173]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.22-16.30.01:175][173]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.22-16.30.01:175][173]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.22-16.30.01:176][173]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.22-16.30.01:177][173]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.22-16.30.01:179][173]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.22-16.30.01:180][173]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.22-16.30.01:180][173]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.22-16.30.01:181][173]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.22-16.30.01:181][173]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.22-16.30.01:182][173]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.22-16.30.01:182][173]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.22-16.30.01:182][173]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.22-16.30.01:630][173]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.22-16.30.01:630][173]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.22-16.30.01:630][173]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.22-16.30.01:630][173]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.22-16.30.01:630][173]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.22-16.30.01:632][173]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.22-16.30.01:633][173]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.22-16.30.01:634][173]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.22-16.30.01:635][173]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.22-16.30.01:635][173]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.22-16.30.01:635][173]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.22-16.30.01:635][173]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.22-16.30.01:635][173]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.22-16.30.01:636][173]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.22-16.30.01:636][173]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.22-16.30.01:636][173]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.22-16.30.01:636][173]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.22-16.30.01:637][173]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.22-16.30.01:637][173]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.22-16.30.01:638][173]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.22-16.30.01:638][173]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.22-16.30.01:639][173]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.22-16.30.01:705][173]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.22-16.30.01:706][173]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.22-16.30.01:707][173]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.22-16.30.01:709][173]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.22-16.30.01:709][173]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.22-16.30.01:710][173]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.22-16.30.01:710][173]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.22-16.30.01:710][173]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.22-16.30.01:710][173]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.22-16.30.01:710][173]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.22-16.30.01:715][173]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.22-16.30.01:716][173]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.22-16.30.01:716][173]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.22-16.30.01:716][173]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.22-16.30.01:716][173]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.22-16.30.01:717][173]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.22-16.30.01:717][173]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.22-16.30.01:718][173]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.22-16.30.01:718][173]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.22-16.30.01:718][173]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.22-16.30.01:718][173]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.22-16.30.01:719][173]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.22-16.30.01:720][173]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.22-16.30.01:720][173]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.22-16.30.01:720][173]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.22-16.30.01:928][173]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.22-16.30.01:930][173]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.22-16.30.01:931][173]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.22-16.30.01:933][173]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.22-16.30.01:933][173]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.22-16.30.01:933][173]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.22-16.30.01:933][173]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.22-16.30.01:938][173]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.22-16.30.01:938][173]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.22-16.30.01:938][173]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.22-16.30.01:938][173]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.22-16.30.01:939][173]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.22-16.30.01:940][173]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.22-16.30.01:940][173]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.22-16.30.01:942][173]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.22-16.30.01:943][173]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.22-16.30.01:943][173]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.22-16.30.01:943][173]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.22-16.30.01:943][173]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.22-16.30.01:944][173]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.22-16.30.01:944][173]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.22-16.30.01:944][173]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.22-16.30.01:944][173]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.22-16.30.01:944][173]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.22-16.30.01:945][173]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.22-16.30.01:946][173]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.22-16.30.01:947][173]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.22-16.30.01:947][173]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.22-16.30.01:947][173]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.22-16.30.01:947][173]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.22-16.30.01:947][173]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.22-16.30.01:948][173]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.22-16.30.01:948][173]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.22-16.30.01:948][173]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.22-16.30.01:948][173]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.22-16.30.01:948][173]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.22-16.30.01:949][173]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.22-16.30.01:949][173]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.22-16.30.01:949][173]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.22-16.30.01:949][173]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.22-16.30.01:949][173]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.22-16.30.02:051][173]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.22-16.30.02:152][173]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.22-16.30.02:152][173]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.22-16.30.02:155][173]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.22-16.30.02:155][173]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.22-16.30.02:155][173]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.22-16.30.02:155][173]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.22-16.30.02:157][173]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.22-16.30.02:159][173]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.22-16.30.02:159][173]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.22-16.30.02:160][173]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.22-16.30.02:160][173]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.22-16.30.02:161][173]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.22-16.30.02:163][173]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.22-16.30.02:163][173]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.22-16.30.02:163][173]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.22-16.30.02:163][173]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.22-16.30.02:164][173]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.22-16.30.02:164][173]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.22-16.30.02:165][173]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.22-16.30.02:171][173]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.22-16.30.02:171][173]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.22-16.30.02:171][173]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.22-16.30.02:172][173]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.22-16.30.02:172][173]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.22-16.30.02:172][173]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.22-16.30.02:172][173]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.22-16.30.02:173][173]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.22-16.30.02:173][173]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.22-16.30.02:173][173]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.22-16.30.02:175][173]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.22-16.30.02:175][173]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.22-16.30.02:176][173]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.22-16.30.02:176][173]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.22-16.30.02:177][173]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.22-16.30.02:178][173]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.22-16.30.02:180][173]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.22-16.30.02:180][173]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.22-16.30.02:182][173]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.22-16.30.02:182][173]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.22-16.30.02:185][173]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.22-16.30.02:186][173]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.22-16.30.02:187][173]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.22-16.30.02:187][173]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.22-16.30.02:187][173]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.22-16.30.02:188][173]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.22-16.30.02:188][173]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.22-16.30.02:188][173]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.22-16.30.02:189][173]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.22-16.30.02:189][173]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.22-16.30.02:254][173]LogDerivedDataCache: Shutdown
+[2018.10.22-16.30.02:254][173]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.22-16.30.02:254][173]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.22-16.30.02:255][173]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.22-16.30.02:255][173]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.22-16.30.02:256][173]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.22-16.30.02:256][173]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.22-16.30.02:257][173]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.22-16.30.02:258][173]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.22-16.30.02:259][173]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.22-16.30.02:259][173]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.22-16.30.02:266][173]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.22-16.30.02:266][173]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.22-16.30.02:271][173]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.22-16.30.02:271][173]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.22-16.30.02:307][173]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.22-16.30.02:308][173]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.22-16.30.02:308][173]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.22-16.30.02:308][173]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.22-16.30.02:309][173]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.22-16.30.02:309][173]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.22-16.30.02:309][173]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.22-16.30.02:309][173]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.22-16.30.02:310][173]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.22-16.30.02:311][173]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.22-16.30.02:336][173]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.22-16.30.02:337][173]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.22-16.30.02:337][173]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC09DAE02-44BC-6E78-7BE1-E0B61D368B16%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=3f15ae8f48bf0e40c945ecb95664f0c0%7C%7C29289413-a27f-4396-a394-b78bf1860e19&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.22-16.30.02:365][173]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.22-16.30.02:367][173]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.22-16.30.02:367][173]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.22-16.30.02:367][173]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.22-16.30.02:367][173]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.22-16.30.02:367][173]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.22-16.30.02:368][173]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.22-16.30.02:368][173]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.22-16.30.02:369][173]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.22-16.30.02:370][173]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.22-16.30.02:372][173]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.22-16.30.02:372][173]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.22-16.30.02:372][173]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.22-16.30.02:372][173]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.22-16.30.02:373][173]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.22-16.30.02:374][173]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.22-16.30.02:375][173]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.22-16.30.02:375][173]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.22-16.30.02:375][173]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.22-16.30.02:375][173]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.22-16.30.02:382][173]LogExit: Exiting.
+[2018.10.22-16.30.02:390][173]Log file closed, 10/22/18 09:30:02
